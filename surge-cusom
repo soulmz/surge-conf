@@ -1,0 +1,129 @@
+DOMAIN-SUFFIX,xvideos-cdn.com // Added for webpage: static-l3.xvideos-cdn.com:443
+DOMAIN-SUFFIX,xvideos.com // Added for webpage: www.xvideos.com:443
+DOMAIN-SUFFIX,theporndude.com // Added for webpage: theporndude.com:443
+DOMAIN,freemycloud.pw
+DOMAIN,d1.awsstatic.com
+DOMAIN-SUFFIX,freetls.fastly.net
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,ackcdn.net
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,openssl.org
+DOMAIN-SUFFIX,zerobywsaber.com
+DOMAIN,v2home.org
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN,contentsync.onenote.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN,duckduckgo.com
+DOMAIN-SUFFIX,fluxcd.io
+DOMAIN-SUFFIX,nicegram.app
+DOMAIN-SUFFIX,xiph.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,wttft.com
+DOMAIN-SUFFIX,freemycloud.cc
+DOMAIN-SUFFIX,freemycloud.xyz
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,golang.org
+# DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gitbooks.io
+DOMAIN-SUFFIX,fleeto.us
+DOMAIN-SUFFIX,coredns.io
+DOMAIN,s1.nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,liuyalei.top
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,cdndm5.com
+DOMAIN-SUFFIX,manhuaren.com // 漫画人 app
+DOMAIN-SUFFIX,cfdtesting.com
+DOMAIN-SUFFIX,espnlol.com
+DOMAIN-SUFFIX,tonybai.com
+DOMAIN-SUFFIX,vice.cn
+DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,liqiang.io
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,zhuangzhuang.cf
+DOMAIN-SUFFIX,xifan.me
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,softonic.com
+DOMAIN,d29vzk4ow07wi7.cloudfront.net
+DOMAIN-SUFFIX,goharbor.io
+DOMAIN,d3uo42mtx6z2cr.cloudfront.net
+DOMAIN-SUFFIX,fuckcloudnative.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,imgchr.com
+DOMAIN-SUFFIX,xvideos-cdn.com // Added for webpage: hls-hw.xvideos-cdn.com:443
+IP-CIDR,172.217.160.80/32
+DOMAIN-SUFFIX,bb6y.com // 机场
+DOMAIN-SUFFIX,helm.sh
+DOMAIN-SUFFIX,ia.net
+DOMAIN-SUFFIX,statcounter.com
+DOMAIN-SUFFIX,tonymacx86.com
+DOMAIN-SUFFIX,solo.io
+DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,jav101.com // Added for webpage: jav101.com:443
+DOMAIN-SUFFIX,pornhub.com // Added for webpage: www.pornhub.com:443
+DOMAIN,qhh.me
+DOMAIN,readthedocs.org
+DOMAIN,jimmysong.io
+DOMAIN,kubernetes.io
+DOMAIN,qiita.com
+DOMAIN,bb6y.com
+DOMAIN,bandwagonhost.com
+DOMAIN,grpc.io
+DOMAIN,golang.org
+PROCESS-NAME,/usr/local/Cellar/go/1.14/libexec/bin/go
+DOMAIN-SUFFIX,gohugo.io
+DOMAIN-SUFFIX,iina.io
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,namesilo.com
+DOMAIN,getjms.com
+DOMAIN-SUFFIX,xvideos.com // Added for webpage: www.xvideos.com:443
+DOMAIN-SUFFIX,theporndude.com // Added for webpage: theporndude.com:443
+DOMAIN-SUFFIX,camfgc.com // Added for webpage: http://pic-cdn.camfgc.com/s3.dmgc/html/js/download.ac63b550.js
+DOMAIN-SUFFIX,d8fz5mrwv4i2h.cloudfront.net // Added for webpage: http://d8fz5mrwv4i2h.cloudfront.net/content/7443c297c382eece92eb2762d3b952c6.jpg
+DOMAIN-SUFFIX,bintray.com
+DOMAIN,archiveofourown.org
+DOMAIN-SUFFIX,mpweekly.com
+DOMAIN-SUFFIX,cnwangjie.com
+DOMAIN-SUFFIX,planetemu.net
+PROCESS-NAME,/Applications/OpenEmu.app/Contents/MacOS/OpenEmu
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,openemu.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,docker.com
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
+DOMAIN-SUFFIX,rugarciap.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,yuerblog.cc
+DOMAIN-SUFFIX,istio.io
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,ift.tt
+DOMAIN-SUFFIX,imgur.com
+DOMAIN,www.google-analytics.com
+DOMAIN,rh120n.jomodns.com
+DOMAIN,pvpdb.uuu9.com
